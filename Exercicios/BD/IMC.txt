@@ -1,0 +1,9 @@
+Tyago mede 1,7 m e pesa 65 Kg. Com isso tem um IMC de 22,49, o que lhe classifica como Peso normal
+Verena mede 1,6 m e pesa 63 Kg. Com isso tem um IMC de 24,61, o que lhe classifica como Peso normal
+Helena mede 1,9 m e pesa 60 Kg. Com isso tem um IMC de 16,62, o que lhe classifica como Abaixo do peso
+Helena mede 1,6 m e pesa 60 Kg. Com isso tem um IMC de 23,44, o que lhe classifica como Peso normal
+Helena mede 1,6 m e pesa 70 Kg. Com isso tem um IMC de 27,34, o que lhe classifica como Acima do peso (sobrepeso)
+Helena mede 1,6 m e pesa 80 Kg. Com isso tem um IMC de 31,25, o que lhe classifica como Obesidade I
+Helena mede 1,6 m e pesa 90 Kg. Com isso tem um IMC de 35,16, o que lhe classifica como Obesidade II
+Helena mede 1,6 m e pesa 100 Kg. Com isso tem um IMC de 39,06, o que lhe classifica como Obesidade II
+Helena mede 1,6 m e pesa 110 Kg. Com isso tem um IMC de 42,97, o que lhe classifica como Obesidade III

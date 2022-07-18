@@ -1,0 +1,3 @@
+Tyago|1,7|63
+Helena|1,6|55
+Sofya|1,2|20
